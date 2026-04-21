@@ -1,17 +1,6 @@
-# 🚀 Project Name
+# 🚀 Hunter's Unblocked Games
 
-> A short, clear description of your project goes here.
-
----
-
-## 📖 Overview
-
-Explain what your project does, why it exists, and who it’s for.
-
-Example:
-This project is a tool that helps users manage tasks efficiently with a simple and intuitive interface.
-
----
+Thanks for playing!
 
 ## ✨ Features
 
