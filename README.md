@@ -2,7 +2,7 @@
 
 Thanks for playing!
 
-## ✨ Features
+## 🕹️ Games
 
 - Feature 1 (e.g. User authentication)
 - Feature 2 (e.g. Real-time updates)
