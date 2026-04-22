@@ -52,3 +52,9 @@ a {
 
 </body>
 </html>
+<iframe 
+  src="https://unblockedgames76-pro.github.io/go/class-450.html"
+  width="100%" 
+  height="700" 
+  style="border:none;">
+</iframe>
