@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<Hunter Games>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Game Hub</title>
+<Hunter's>Game Hub</title>
 
 <style>
 body {
@@ -48,12 +48,7 @@ a {
 
 <body>
 
-<header>🎮 My Game Hub</header>
-
-<div class="grid">
-  <div class="card"><a href="games/clicker/">Clicker Game</a></div>
-  <div class="card"><a href="games/snake/">Snake Game</a></div>
-</div>
+<header>🎮 Hunter's Game Hub</header>
 
 </body>
 </html>
