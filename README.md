@@ -4,12 +4,7 @@ Thanks for playing!
 
 ## 🕹️ Games
 
-<iframe 
-  src="https://speedstars2.io" 
-  width="100%" 
-  height="600" 
-  frameborder="0" 
-  allowfullscreen>
+<iframe src="game/index.html" width="100%" height="600"></iframe>
 </iframe>
 [- Feature 2 (e.g. Real-time updates)](https://speedstars2.io/)
 [- Feature 3 (e.g. Responsive UI)](https://basketball-stars.io/)
