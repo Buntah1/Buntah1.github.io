@@ -5,9 +5,9 @@ Thanks for playing!
 ## 🕹️ Games
 
 <iframe 
-  width="560" 
-  height="315" 
-  src="(https://speedstars2.io)/embed/VIDEO_ID" 
+  src="https://speedstars2.io" 
+  width="100%" 
+  height="600" 
   frameborder="0" 
   allowfullscreen>
 </iframe>
